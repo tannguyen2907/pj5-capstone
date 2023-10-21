@@ -1,12 +1,20 @@
-# This my result:
+# OPTION 2: I HAVE CHANGED FRONT-END AND API OF TODOS APP TO CLOTHES APPS SERVICES
 ## In Frontend API:
 
+### My Clothes app API:
+https://9lar5soogi.execute-api.us-east-1.amazonaws.com/dev/clothes
+### Add Clothes:
+<img width="1440" alt="Screen Shot 2023-10-21 at 17 02 06" src="https://github.com/tannguyen2907/pj5-capstone/assets/50420167/0371b3d7-d64a-42ea-884a-5cd7478a374b">
 
-## Postman API:
+### Get list of Clothes:
+<img width="1440" alt="Screen Shot 2023-10-21 at 17 03 24" src="https://github.com/tannguyen2907/pj5-capstone/assets/50420167/f0a6406e-5978-4736-994b-1c3922e1815b">
 
+### Delete Clothes:
+<img width="1440" alt="Screen Shot 2023-10-21 at 17 03 44" src="https://github.com/tannguyen2907/pj5-capstone/assets/50420167/aa91ca75-cdb2-47dd-b3aa-09963daeb258">
 
-
-# AWS CloudFormation:
+### Postman:
+#### After Delete short:
+<img width="1020" alt="Screen Shot 2023-10-21 at 17 15 53" src="https://github.com/tannguyen2907/pj5-capstone/assets/50420167/dfeffb5f-7852-42f7-8b72-faac15a19172">
 
 
 # Serverless clothes
